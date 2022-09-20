@@ -4,4 +4,5 @@ ALTER TABLE accounts ADD user_type VARCHAR(100) NOT NULL DEFAULT 'user',
  ADD secondary_email VARCHAR(100);
   
  
-this is main
+this is main , line 2
+not main

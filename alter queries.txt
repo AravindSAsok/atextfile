@@ -5,3 +5,4 @@ ALTER TABLE accounts ADD user_type VARCHAR(100) NOT NULL DEFAULT 'user',
 
  
  this is  change 2
+ this is change 3

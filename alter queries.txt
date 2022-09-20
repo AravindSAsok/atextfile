@@ -2,7 +2,7 @@ ALTER TABLE accounts ADD user_type VARCHAR(100) NOT NULL DEFAULT 'user',
  ADD isComplete boolean NOT NULL DEFAULT true,
  ADD steps integer NOT NULL DEFAULT 1,
  ADD secondary_email VARCHAR(100);
-
+  
  
- this is  change 2
- this is change 3
+this is main , line 2
+not main
